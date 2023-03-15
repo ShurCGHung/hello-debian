@@ -2,5 +2,6 @@
 
 void main(int argc, char** argv) {
   printf("hello CMake\n");
-  print("Hello github");
+  printf("Hello github\n");
+  printf("Hello Email");
 }
